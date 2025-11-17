@@ -44,6 +44,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "9924ed74-c4db-4f21-be75-42ea90c089f4"
+      }
+    },
+    "owner": "thanhtung_simplamo"
   }
 }
